@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+.container{
+    background-color:#333;
+    width:100%;
+    height:100vh;
+    display:flex;
+   
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+
+}
+.musicplayer{
+    width:300px;
+    height:400px;
+    background-color:antiquewhite;
+    padding:25px 35px;
+    text-align:center;
+   
+ 
+    
+}
+.box{
+    border-radius:50%;
+    width:210px;
+    height:220px;
+}
+nav{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:30px;
+}
+h1{
+    font-size:15px;
+}

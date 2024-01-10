@@ -1,0 +1,15 @@
+body{
+    border:solid 4px;
+    width:1070px;
+    border-color:brown;
+}
+table{
+    width:950px;
+    
+}
+textarea{
+    width:900px;
+}
+.box{
+    accent-color:blue;
+}

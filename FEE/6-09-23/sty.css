@@ -1,0 +1,107 @@
+h1{
+    text-align:center;
+    color:rgb(188, 66, 115)
+}
+body{
+    background-color:aliceblue;
+    text-align:center;
+}
+label{
+    display:inline-block;
+    color:rgb(188,66,115)
+}
+.frame1{
+    margin-left:30px;
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+}
+.frame2{
+    margin-left:30px;
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+}
+  .male{
+    margin-left:30px;
+  }
+  .female{
+    margin-left:20px;
+  }  
+.frame3{
+    box-align:center;
+    margin-left:30px;
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+}
+.frame4{
+    margin-left:30px;
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+}
+.frame5{
+    margin-left:30px;
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+}
+.frame6{
+    margin-left:30px;
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+}
+.frame7{
+    margin-left:30px;
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+}
+.frame8{
+    margin-left:30px;
+    
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+
+}
+.frame9{
+    margin-left:30px;
+    
+    width:800px;
+    height:100px;
+    border-color:rgb(238, 22, 22);
+
+}
+.stat{
+    margin-left:30px;
+    
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+}
+.frame10{
+    margin-left:30px;
+    
+    width:800px;
+    height:30px;
+    border-color:rgb(238, 22, 22);
+}
+.music{
+    color:rgb(238, 22, 22);
+}
+table{
+    width:300px;
+    height:100px;
+    
+    background-color:rgba(235, 221, 221, 0.811);
+}
+button {
+    background-color:rgb(164, 51, 51);
+    width:300px;
+    height:30px;
+    text-align:center;
+}
+
