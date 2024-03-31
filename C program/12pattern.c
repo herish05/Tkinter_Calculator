@@ -2,7 +2,7 @@
 int main()
 {
     int n;
-    printf("enter number of rows");
+    printf("enter nudfdfer of rows");
     scanf("%d",&n);
     for(int i=2;i<=n;i++){
         for(int j=1;j<=n;j++){
@@ -10,7 +10,7 @@ int main()
                 printf("%s","0");
             }
             else if(i+j-1==n){
-                printf("%s","2");
+                printf("%s","1");
             }
             else{
                 printf("%s","1");
